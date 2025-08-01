@@ -29,7 +29,7 @@ This project implements a password-protected digital lock system using Verilog H
 - Testbench feeds correct/incorrect key sequences
 - View `unlocked` and `locked` output in waveform
 
-## 📸 Sample Waveform
+## 📈 Sample Waveform
 
 <img width="1759" height="979" alt="Screenshot 2025-08-01 132238" src="https://github.com/user-attachments/assets/673a06af-70c3-48ee-97d4-683a3cce2619" />
 
